@@ -28,5 +28,5 @@
 
 ## 📫 Contact
 
-- Email: acosmeticstory@gmail.com
+- Email: vcfdregg3@naver.com
 - GitHub: [@uncle-jongpal](https://github.com/uncle-jongpal)
