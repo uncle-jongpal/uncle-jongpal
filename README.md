@@ -16,11 +16,18 @@ AI를 코어에 두고, 사람이 실제로 쓰는 제품을 빠르게 만듭니
 ## 🚀 Selected Projects
 
 - **[research-rag](https://github.com/uncle-jongpal/research-rag)** — 13가지 RAG 기법 + RAGAS 평가 레퍼런스 갤러리
-- **[poc-wildfire](https://github.com/uncle-jongpal/poc-wildfire)** — 산불 불꽃·연기 자동 검출 + 위험 등급 + 알림
 - **[poc-lane-detection](https://github.com/uncle-jongpal/poc-lane-detection)** — 차선 모델 3종 동시 추론 · Jetson 임베디드 실측 비교
-- **[research-amc](https://github.com/uncle-jongpal/research-amc)** — 딥러닝 기반 자동 변조 분류 (대학원 연구)
-- **[research-model-compression](https://github.com/uncle-jongpal/research-model-compression)** — 모델 경량화 (양자화·프루닝·증류)
-- **[research-ai-tooling](https://github.com/uncle-jongpal/research-ai-tooling)** — AI 도구 셋업·연동·트러블슈팅 가이드
+- **[poc-wildfire](https://github.com/uncle-jongpal/poc-wildfire)** — 산불 불꽃·연기 검출 + 위험 등급 + 알림
+- **모두의 플레이 — 줄넘기** — 웹소켓 실시간 점수·심판·오버레이, Korea Open 2026 현장 운영 검증 *(web)*
+- **쫑팔이삼촌** — 안드로이드 능동형 AI 비서, 100% 로컬 추론 (Gemma 4 E2B · MediaPipe) *(android)*
+- **클로드 코드 에이전트 모니터** — 4대 동시 가동 에이전트 라이브 상태판 + 자체 모바일 앱 *(infra)*
+
+## 🏭 Work Highlights
+
+- **식품 라벨 머신비전 OCR** — PaddleOCR + OpenCV, 처리속도 100ms 요구 대비 **60ms** 달성
+- **VLM 기반 비전검사 NG 분석** — 불량 이미지를 자연어로 사유 설명
+- **강화학습 교통신호 최적화** — SUMO + A2C/DQN, 통행지체 **30%↓** (영향권)
+- **탄소중립 수송 감축 (국토부 과제)** — CCTV 차량 6종 분류, YOLOv8 mAP **75%**
 
 ## 🛠️ Tech Stack
 
