@@ -15,12 +15,12 @@
 
 ## 🚀 Selected Projects
 
-- **[rag-hub](https://github.com/uncle-jongpal/rag-hub)** — 13가지 RAG 기법 + RAGAS 평가 레퍼런스 갤러리
-- **[wildfire-poc](https://github.com/uncle-jongpal/wildfire-poc)** — 산불 비전 PoC: 불꽃·연기 자동 검출 + 위험 등급 평가 + 알림
-- **[lane-detection-poc](https://github.com/uncle-jongpal/lane-detection-poc)** — 차선 검출 PoC
-- **[AMC](https://github.com/uncle-jongpal/AMC)** — Automatic Modulation Classification (딥러닝 기반 변조 분류, 대학원 연구)
-- **[model-compression-methods](https://github.com/uncle-jongpal/model-compression-methods)** — 모델 경량화 기법 정리
-- **[AI-tool-setup-guides](https://github.com/uncle-jongpal/AI-tool-setup-guides)** — AI 도구 설치·연동·트러블슈팅 실전 가이드
+- **[research-rag](https://github.com/uncle-jongpal/research-rag)** — 13가지 RAG 기법 + RAGAS 평가 레퍼런스 갤러리
+- **[poc-wildfire](https://github.com/uncle-jongpal/poc-wildfire)** — 산불 비전 PoC: 불꽃·연기 자동 검출 + 위험 등급 평가 + 알림
+- **[poc-lane-detection](https://github.com/uncle-jongpal/poc-lane-detection)** — 차선 검출 비전 PoC
+- **[research-amc](https://github.com/uncle-jongpal/research-amc)** — 딥러닝 기반 자동 변조 분류 (대학원 연구)
+- **[research-model-compression](https://github.com/uncle-jongpal/research-model-compression)** — 모델 경량화 기법 정리 (양자화·프루닝·증류)
+- **[research-ai-tooling](https://github.com/uncle-jongpal/research-ai-tooling)** — AI 도구 설치·연동·트러블슈팅 실전 가이드
 
 ## 🛠️ Tech Stack
 
